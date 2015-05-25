@@ -14,7 +14,7 @@ Import script
 ```
 Import module
 ```js
-var app = angular.module('myApp', ['Resources']);
+var app = angular.module('myApp', ['resources']);
 ```
 
 ## Usage
